@@ -1,5 +1,5 @@
 <h1 align="center">👋 Henlo, I'm Alex Renoki.</h1>
-<h3 align="center">Doing stuff for fun and spending my time doing open-source.</h3>
+<h3 align="center">Doing stuff for fun and (usually) open-source.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rennokki" alt="rennokki" /></a> </p>
 
