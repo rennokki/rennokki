@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rennokki" alt="rennokki" /></a> </p>
 
+- 🚢 Building open-source applications and packages at [Renoki Co.](https://github.com/renoki-co)
+
 - 🔥 Working on [soketi.js](https://github.com/soketi), [php-k8s](https://github.com/renoki-co/php-k8s) and [tf2autobot](https://github.com/tf2autobot)
 
 - 🌱 I’m currently learning **golang**
