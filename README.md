@@ -1,6 +1,6 @@
 ### 👋 Henlo, I'm Alex Renoki.
 
-I'm working on free, open-source projects and offering consultancy for your next game-changer app. 👦
+I'm working on free, open-source projects. Because I got too much free time. 👦
 
 Some of my works include:
 
@@ -10,6 +10,12 @@ Some of my works include:
 - [Laravel Helm Demo](https://github.com/renoki-co/laravel-helm-demo) - deploy your Laravel app with Kubernetes in an automated way
 - [Clusteer](https://github.com/renoki-co/clusteer) - a Puppeteer wrapper written for Laravel, with the super-power of parallelizing pages across multiple browser instances, making it many times faster than traditional methods
 - [Laravel AWS Webhooks](https://github.com/renoki-co/laravel-aws-webhooks) - Easy webhook handler for Laravel to catch AWS SNS notifications for various services.
+- [More Laravel & PHP packages at @renoki-co](https://github.com/renoki-co) 🚀
+
+Some of services I offer (at cost):
+
+- Consultancy for apps written in: Laravel
+- Consultancy for infrastructure: AWS, Google Cloud Platform, DigitalOcean, Scaleway
 
 ### If you like my work, consider [sponsoring me](https://githhub.com/sponsors/rennokki). ❤
 
