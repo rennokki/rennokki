@@ -4,7 +4,7 @@ I'm working on free, open-source projects. Because I got too much free time. ðŸ‘
 
 Some of my works include:
 
-- [pWS](https://github.com/soketi/pws) - a completely-free Pusher alternative for your real-time projects
+- [soketi](https://github.com/soketi/soketi) - a completely free, resilient and fast (really fast) Pusher alternative for your projects
 - [PHP K8s](https://github.com/renoki-co/php-k8s) - a powerful PHP-based Kubernetes client to interact with your Kubernetes cluster
 - [Laravel Eloquent Query Cache](https://github.com/renoki-co/laravel-eloquent-query-cache) - supercharge your application by caching your database queries
 - [Laravel Helm Demo](https://github.com/renoki-co/laravel-helm-demo) - deploy your Laravel app with Kubernetes in an automated way
