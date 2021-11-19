@@ -7,8 +7,6 @@ Some of my works include:
 - [soketi](https://github.com/soketi/soketi) - a completely free, resilient and fast (really fast) Pusher alternative for your projects
 - [PHP K8s](https://github.com/renoki-co/php-k8s) - a powerful PHP-based Kubernetes client to interact with your Kubernetes cluster
 - [Laravel Eloquent Query Cache](https://github.com/renoki-co/laravel-eloquent-query-cache) - supercharge your application by caching your database queries
-- [Laravel Helm Demo](https://github.com/renoki-co/laravel-helm-demo) - deploy your Laravel app with Kubernetes in an automated way
-- [Clusteer](https://github.com/renoki-co/clusteer) - a Puppeteer wrapper written for Laravel, with the super-power of parallelizing pages across multiple browser instances, making it many times faster than traditional methods
 - [Laravel AWS Webhooks](https://github.com/renoki-co/laravel-aws-webhooks) - Easy webhook handler for Laravel to catch AWS SNS notifications for various services.
 - [More Laravel & PHP packages at @renoki-co](https://github.com/renoki-co) 🚀
 
@@ -16,6 +14,8 @@ Some of services I offer (at cost):
 
 - Consultancy for apps written in: Laravel
 - Consultancy for infrastructure: AWS, Google Cloud Platform, DigitalOcean, Scaleway
+
+**[Schedule an appointment ➡](https://calendly.com/rennokki)**
 
 ### If you like my work, consider [sponsoring me](https://githhub.com/sponsors/rennokki). ❤
 
