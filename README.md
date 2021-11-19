@@ -12,7 +12,7 @@ Some of my works include:
 
 Some of services I offer:
 
-- 1on1, pair programming for Laravel/Laravel Zero apps
+- 1on1, pair programming for Laravel/Laravel Zero apps, infrastructure debugging and maintaining (AWS, Google Cloud Platform, DigitalOcean, etc.)
 - Consultancy about best practices when comes to apps and/or infrastructure architectures (see my full stack below)
 - Dedicated support for open-source packages at [Renoki Co.](https://github.com/renoki-co) or other subsidiaries
 
