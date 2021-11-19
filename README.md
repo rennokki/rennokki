@@ -10,10 +10,11 @@ Some of my works include:
 - [Laravel AWS Webhooks](https://github.com/renoki-co/laravel-aws-webhooks) - Easy webhook handler for Laravel to catch AWS SNS notifications for various services.
 - [More Laravel & PHP packages at @renoki-co](https://github.com/renoki-co) 🚀
 
-Some of services I offer (at cost):
+Some of services I offer:
 
-- Consultancy for apps written in: Laravel
-- Consultancy for infrastructure: AWS, Google Cloud Platform, DigitalOcean, Scaleway
+- 1on1, pair programming for Laravel/Laravel Zero apps
+- Consultancy about best practices when comes to apps and/or infrastructure architectures (see my full stack below)
+- Dedicated support for open-source packages at [Renoki Co.](https://github.com/renoki-co) or other subsidiaries
 
 **[Schedule an appointment ➡](https://calendly.com/rennokki)**
 
