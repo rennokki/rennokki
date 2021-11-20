@@ -2,11 +2,11 @@
 
 I'm working on free, open-source projects. Because I got too much free time. 👦
 
-I'm also providing dedicated support for Laravel, Kubernetes and cloud infrastructure (AWS, Google Cloud Platform). [See the entire stack and schedule a meeting ➡](https://renoki.org)
+I'm also providing dedicated support for Laravel, Kubernetes and cloud infrastructure (AWS, Google Cloud Platform). **[See the entire stack and schedule a meeting ➡](https://renoki.org)**
 
 <hr>
 
-#### Some of my works include:
+### Some of my works include:
 
 - [soketi](https://github.com/soketi/soketi) - a completely free, resilient and fast (really fast) Pusher alternative for your projects
 - [PHP K8s](https://github.com/renoki-co/php-k8s) - a powerful PHP-based Kubernetes client to interact with your Kubernetes cluster
@@ -16,7 +16,7 @@ I'm also providing dedicated support for Laravel, Kubernetes and cloud infrastru
 
 <hr>
 
-#### Some of services I offer:
+### Some of services I offer:
 
 - 1on1, pair programming for Laravel/Laravel Zero apps, infrastructure and compliance solutions in AWS, Google Cloud Platform or other cloud providers (for individuals)
 - Design, Implementation, Support and/or Migration for/to cloud applications (for teams)
