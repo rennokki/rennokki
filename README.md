@@ -2,7 +2,11 @@
 
 I'm working on free, open-source projects. Because I got too much free time. 👦
 
-Some of my works include:
+I'm also providing dedicated support for Laravel, Kubernetes and cloud infrastructure (AWS, Google Cloud Platform). [See the entire stack and schedule a meeting ➡](https://renoki.org)
+
+<hr>
+
+#### Some of my works include:
 
 - [soketi](https://github.com/soketi/soketi) - a completely free, resilient and fast (really fast) Pusher alternative for your projects
 - [PHP K8s](https://github.com/renoki-co/php-k8s) - a powerful PHP-based Kubernetes client to interact with your Kubernetes cluster
@@ -10,13 +14,19 @@ Some of my works include:
 - [Laravel AWS Webhooks](https://github.com/renoki-co/laravel-aws-webhooks) - Easy webhook handler for Laravel to catch AWS SNS notifications for various services.
 - [More Laravel & PHP packages at @renoki-co](https://github.com/renoki-co) 🚀
 
-Some of services I offer:
+<hr>
 
-- 1on1, pair programming for Laravel/Laravel Zero apps, infrastructure debugging and maintaining (AWS, Google Cloud Platform, DigitalOcean, etc.)
-- Consultancy about best practices when comes to apps and/or infrastructure architectures (see my full stack below)
-- Dedicated support for open-source packages at [Renoki Co.](https://github.com/renoki-co) or other subsidiaries
+#### Some of services I offer:
+
+- 1on1, pair programming for Laravel/Laravel Zero apps, infrastructure and compliance solutions in AWS, Google Cloud Platform or other cloud providers (for individuals)
+- Design, Implementation, Support and/or Migration for/to cloud applications (for teams)
+- Dedicated support for open-source packages at [Renoki Co.](https://github.com/renoki-co) and other Renoki Co. subsidiaries
 
 **[Schedule an appointment ➡](https://calendly.com/rennokki)**
+
+Subsidiaries: [Renoki Games.](https://github.com/renoki-games), [soketi](https://github.com/soketi/soketi), [opsie](https://github.com/opsie-app)
+
+<hr>
 
 ### If you like my work, consider [sponsoring me](https://githhub.com/sponsors/rennokki). ❤
 
