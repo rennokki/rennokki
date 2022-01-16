@@ -8,7 +8,7 @@ I'm also providing dedicated support for Laravel, Kubernetes and cloud infrastru
 
 ### Some of my works include:
 
-- [soketi](https://github.com/soketi/soketi) - a completely free, resilient and fast (really fast) Pusher alternative for your projects
+- [soketi](https://github.com/soketi/soketi) - jut another simple, fast, and resilient open-source WebSockets server. 📣
 - [PHP K8s](https://github.com/renoki-co/php-k8s) - a powerful PHP-based Kubernetes client to interact with your Kubernetes cluster
 - [Laravel Eloquent Query Cache](https://github.com/renoki-co/laravel-eloquent-query-cache) - supercharge your application by caching your database queries
 - [Laravel AWS Webhooks](https://github.com/renoki-co/laravel-aws-webhooks) - Easy webhook handler for Laravel to catch AWS SNS notifications for various services.
