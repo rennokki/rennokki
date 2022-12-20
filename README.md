@@ -4,6 +4,8 @@ I'm working on free, open-source projects. Because I got too much free time. ðŸ‘
 
 I'm also providing dedicated support for Laravel, Kubernetes and cloud infrastructure (AWS, Google Cloud Platform). **[See the entire stack and schedule a meeting âž¡](https://renoki.org)**
 
+GPG Key: [`263D23AF1BF6FE8ED5E5A0777EA96B0FE3AE699F`](https://keys.openpgp.org/search?q=alex@renoki.org)
+
 <hr>
 
 ### Some of my works include:
