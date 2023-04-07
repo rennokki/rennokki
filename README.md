@@ -1,6 +1,6 @@
 ### 👋 Henlo, I'm Alex Renoki.
 
-I'm working on free, open-source projects. Because I got too much free time. 👦
+I'm working on free, open-source projects, because the community is awesome! 👦
 
 I'm also providing dedicated support for Laravel, Kubernetes and cloud infrastructure (AWS, Google Cloud Platform). **[See the entire stack and schedule a meeting ➡](https://renoki.org)**
 
@@ -15,14 +15,15 @@ GPG Key: [`263D23AF1BF6FE8ED5E5A0777EA96B0FE3AE699F`](https://keys.openpgp.org/s
 - [Laravel Eloquent Query Cache](https://github.com/renoki-co/laravel-eloquent-query-cache) - supercharge your application by caching your database queries
 - [Laravel AWS Webhooks](https://github.com/renoki-co/laravel-aws-webhooks) - Easy webhook handler for Laravel to catch AWS SNS notifications for various services.
 - [More Laravel & PHP packages at @renoki-co](https://github.com/renoki-co) 🚀
+- [More realtime-base packages at @soketi](https://github.com/soketi) 📡
 
 <hr>
 
 ### Some of services I offer:
 
-- 1on1, pair programming for Laravel/Laravel Zero apps, infrastructure and compliance solutions in AWS, Google Cloud Platform or other cloud providers (for individuals)
-- Design, Implementation, Support and/or Migration for/to cloud applications (for teams)
-- Dedicated support for open-source packages at [Renoki Co.](https://github.com/renoki-co) and other Renoki Co. subsidiaries
+- 1on1, pair programming for Laravel/Laravel Zero apps, infrastructure and compliance solutions in AWS, Google Cloud Platform or other cloud providers
+- Design, Implementation, Support and/or Migration for/to cloud applications
+- Dedicated support for the open-source packages at [Renoki Co.](https://github.com/renoki-co) and other Renoki Co. subsidiaries
 
 **[Schedule an appointment ➡](https://calendly.com/rennokki)**
 
