@@ -8,7 +8,7 @@ I have been delivering applications and projects for over 5 years and I keep get
 - Cloud platforms management: Amazon Web Services (AWS), Google Cloud Platform (GCP), Hetzner
 - Generative AI, General AI & LLMs: Llama-based models, GPTs, Mistral/Mixtral, Langchain, Stable Diffusion
 
-### **[Let's talk ➡](https://cal.renoki.org/alex-r)**
+### **[Let's talk ➡](https://cal.renoki.org/alexr-laravel-php-ai-cloudflare)**
 
 <hr>
 
