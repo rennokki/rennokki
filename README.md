@@ -27,3 +27,9 @@ I have been delivering applications and projects for over 5 years and I keep get
 - [More Laravel & PHP packages at @renoki-co](https://github.com/renoki-co) 🚀
 
 ### **If you like my work, consider [sponsoring me](https://github.com/sponsors/rennokki). ✨**
+
+<p align="center">
+  <a href="https://github.com/sponsors/rennokki">
+    <img src='https://cdn.jsdelivr.net/gh/rennokki/sponsorkit-assets@main/assets/sponsors.svg' alt="Logos from Sponsors" />
+  </a>
+</p>
