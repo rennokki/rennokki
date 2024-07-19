@@ -1,12 +1,29 @@
-### 👋 I salute you
+### AI & LLM Engineer | Full Stack Developer
 
-I have been delivering applications and projects for over 5 years and I keep getting it done.
+Innovative and versatile AI & LLM Engineer with a strong background in full-stack development, making the ideal person for solving complex problems to drive business growth. 👨‍💻
 
-- Laravel projects (including Laravel Zero)
-- Delivering frontend applications with Nuxt and Next.js
-- Deployments & Orchestration: Kubernetes, Docker, Cloudflare Workers
-- Cloud platforms management: Amazon Web Services (AWS), Google Cloud Platform (GCP), Hetzner
-- Generative AI, General AI & LLMs: Llama-based models, GPTs, Mistral/Mixtral, Langchain, Stable Diffusion
+#### Convinced? **[Let's talk ➡](https://cal.renoki.org/alexr-laravel-php-ai-cloudflare)**
+
+#### **Also, if you like my work, consider [sponsoring me](https://github.com/sponsors/rennokki). ✨**
+
+<hr>
+
+## Summary
+
+- Highly adaptable professional with exceptional focus on challenging projects, often working extended hours to ensure completion.
+- Rapidly learns and implements new technologies, specializing in AI, LLMs, and Generative AI, with expertise in LangChain, OpenAI API, and various LLM models.
+- Creative problem-solver who thrives in dynamic environments, bringing innovative solutions to complex technical challenges.
+- Proficient in building scalable applications using Laravel, Next.js, and cloud platforms, often serving as a self-sufficient "one-man-team" on critical projects.
+- Passionate about continuous learning and staying at the forefront of AI and ML advancements, with a strong ability to work independently and efficiently.
+
+## Key Achievements
+
+- Developed Legal AI tools using LangChain, integrating various LLM models and constructing datasets with HuggingFace and Argilla
+- Implemented RAG applications and built high-performance microservices architecture using Kubernetes, AWS Lambda, and Google Cloud Platform
+- Contributed to open-source projects and worked with diverse technologies including Laravel, Next.js, Vue.js, PostgreSQL, and Elasticsearch
+- Deployed monitoring services and internal tools using Kubernetes and GitLab, while implementing robust CI/CD pipelines and DevOps practices
+- Utilized AWS cloud services including Elastic Beanstalk, RDS, S3, and CloudFront for scalable application deployment
+- Set up continuous log ingestion systems using Kinesis, Lambda, and Elasticsearch, handling millions of requests per day
 
 ### **[Let's talk ➡](https://cal.renoki.org/alexr-laravel-php-ai-cloudflare)**
 
@@ -25,8 +42,6 @@ I have been delivering applications and projects for over 5 years and I keep get
 - [Laravel Eloquent Query Cache](https://github.com/renoki-co/laravel-eloquent-query-cache) - supercharge your application by caching your database queries
 - [Laravel AWS Webhooks](https://github.com/renoki-co/laravel-aws-webhooks) - Easy webhook handler for Laravel to catch AWS SNS notifications for various services.
 - [More Laravel & PHP packages at @renoki-co](https://github.com/renoki-co) 🚀
-
-### **If you like my work, consider [sponsoring me](https://github.com/sponsors/rennokki). ✨**
 
 <p align="center">
   <a href="https://github.com/sponsors/rennokki">
