@@ -2,7 +2,7 @@
 
 Engineer that gets the things done and masters the art of problem-solving in any role any environment and any project.
 
-#### Convinced? **[Let's talk ➡](https://cal.renoki.org/alexr-laravel-php-ai-cloudflare)**
+#### **[Let's talk ➡](https://cal.renoki.org/alexr-laravel-php-ai-cloudflare)**
 
 #### **Also, if you like my work, consider [sponsoring me](https://github.com/sponsors/rennokki). ✨**
 
