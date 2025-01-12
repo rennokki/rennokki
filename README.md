@@ -1,14 +1,28 @@
-### AI & LLM Engineer | Full Stack Developer
+## Full Stack Engineer | Hyper-focused 👀 | Startup-oriented ✨
 
-Engineer that gets the things done and masters the art of problem-solving in any role any environment and any project.
+#### **Need a technical co-founder, a CTO or someone to join your team?**
 
-#### **[Let's talk ➡](https://cal.renoki.org/alexr-laravel-php-ai-cloudflare)**
-
-#### **Also, if you like my work, consider [sponsoring me](https://github.com/sponsors/rennokki). ✨**
+#### **[Schedule a meeting ➡](https://cal.com/alexanderg)**
 
 <hr>
 
+## About me
+
+> I faced a lot of challenges, from which I have learned to become better. The easy route and the hard route lead to the same destination, but a harsh truth is that the hard route is the best.
+
+### Current Focus
+
+- Building and maintaining Laravel packages [@renoki-co](https://github.com/renoki-co)
+- Building the next-gen projects on the bleeding edge [@thecodefatherco](https://github.com/thecodefatherco)
+- Pioneering AI/ML [@theaifatherco](https://github.com/theaifatherco) and [@2ols](https://github.com/2ols)
+
+
 ### Work & Projects
+
+#### AI/ML
+
+- [Langflare](https://github.com/theaifatherco/langflare) - Open Source, front-to-back LLM Engineering Platform, similar to [Langfuse](https://langfuse.com/)
+- [2ols](https://github.com/2ols] - Integration platform for LLMs and AI agents, similar to [Composio](https://composio.dev)
 
 #### soketi 📡
 
@@ -21,6 +35,10 @@ Engineer that gets the things done and masters the art of problem-solving in any
 - [Laravel Eloquent Query Cache](https://github.com/renoki-co/laravel-eloquent-query-cache) - supercharge your application by caching your database queries
 - [Laravel AWS Webhooks](https://github.com/renoki-co/laravel-aws-webhooks) - Easy webhook handler for Laravel to catch AWS SNS notifications for various services.
 - [More Laravel & PHP packages at @renoki-co](https://github.com/renoki-co) 🚀
+
+<hr>
+
+#### **If you like my work, consider [sponsoring me](https://github.com/sponsors/rennokki). ✨**
 
 <p align="center">
   <a href="https://github.com/sponsors/rennokki">
