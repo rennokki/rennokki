@@ -22,7 +22,7 @@
 #### AI/ML
 
 - [Langflare](https://github.com/theaifatherco/langflare) - Open Source, front-to-back LLM Engineering Platform, similar to [Langfuse](https://langfuse.com/)
-- [2ols](https://github.com/2ols] - Integration platform for LLMs and AI agents, similar to [Composio](https://composio.dev)
+- [2ols](https://github.com/2ols) - Integration platform for LLMs and AI agents, similar to [Composio](https://composio.dev)
 
 #### soketi 📡
 
